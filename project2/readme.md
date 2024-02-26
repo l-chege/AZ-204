@@ -13,7 +13,7 @@ A secure platform where users can upload important documents, assign tags for ea
 - Azure Functions (to handle link expiration logic)
 - Azure CDN (to efficiently deliver documents)
 
-### Imlementation guide
+### Implementation guide
 1. Design Document Uploader Interface:
  - Create a user-friendly interface for document uploads and tagging.
 2. Azure Blob Storage Setup:

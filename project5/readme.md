@@ -9,7 +9,7 @@ Resources used:
 ## Project - Event-Driven Bookstore Notification System
 An event-driven bookstore appp that notifies subscribers when a new book is added to the inventory. This system integrates Azure's event-based and message-based solutions to handle the real-time notifications.
 
-### Infrastructure used
+### Infrastructure used:
 - Azure API Management (APIM): To manage and secure the API endpoints.
 - Azure Event Grid: To trigger events when new books are added.
 - Azure Service Bus: To send out notification messages to subscribers.

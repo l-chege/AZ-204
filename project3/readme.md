@@ -9,7 +9,7 @@ Azure reources:
 ## Project - Secrets Notes Viewer
 A web app that displays secret notes from Azure keyvault only when user logins.
 
-### Infrastructure Used
+### Infrastructure Used:
 - Microsoft Azure Active Directory (User authentication)
 - Azure Key Vault (Storing sensitive data)
 - Azure App Service (Hosting the portal)

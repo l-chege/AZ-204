@@ -1,10 +1,10 @@
 # Develop for Azure Compute Solutions
 Azure Resources:
-- container registry
-- container instance
-- container apps
-- app service web apps
-- functions
+- Azure container registry
+- Azure container instance
+- Azure container apps
+- Azure app service web apps
+- Azure functions
 
 ## Project - Weather Tracker
 A web app that allows users to track weather udates in real-time for their chosen cities. The system also triggers azure functions for alerts when a specified weather threshold is met (ie if its going to rain).
