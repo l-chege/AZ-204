@@ -1,0 +1,22 @@
+# Topics to be covered
+
+1. event grid
+2. event hub
+3. service bus
+  - queues
+  - topics/subscriptions
+4. storage queues
+5. table storage
+6. cosmos db 
+7. api management
+  - inbound/outbound backend policies
+8. authentication and authorization
+9. azure functions
+10. azure app service
+11. code 
+  - json config
+  - dockerfile
+  - container
+  - scripting (azure cli and powershell)
+12. 
+
